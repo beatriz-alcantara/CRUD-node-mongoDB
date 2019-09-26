@@ -1,0 +1,30 @@
+{
+  "name": "crud-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.3.2",
+    "nodemon": "^1.19.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beatriz813/CRUD-node-mongoDB.git"
+  },
+  "keywords": [
+    "Crud"
+  ],
+  "author": "Beatriz Alcantara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Beatriz813/CRUD-node-mongoDB/issues"
+  },
+  "homepage": "https://github.com/Beatriz813/CRUD-node-mongoDB#readme"
+}
